@@ -1,2 +1,3 @@
 # CountingTime
- 
+
+Recently I was asked by Keona Health to build a quick parking garage billing function as part of their interview process. I never heard back from them, so I can only assume that I didn't make the cut. But it was a really interesting problem because the solution pivots around viewing time in a way that I've never had to think about it before - as an list of DateTime defined by how much you want to move forward or backwards. This solution demonstrates how one would build that billing function.
